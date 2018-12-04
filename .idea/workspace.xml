@@ -39,7 +39,10 @@
     <bookmark url="file://$PROJECT_DIR$/Ventas.php" description="code = '';" line="444" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="876653dd-6d56-49f7-addc-bf68d4000c30" name="Default" comment="" />
+    <list default="true" id="876653dd-6d56-49f7-addc-bf68d4000c30" name="Default" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -82,7 +85,7 @@
       <file leaf-file-name="Ventas.php" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/Ventas.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="336">
+            <state relative-caret-position="3141">
               <caret line="470" lean-forward="true" selection-start-line="470" selection-end-line="470" />
             </state>
           </provider>
@@ -154,7 +157,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$USER_HOME$/Desktop/compartido/converting-from-speech-to-text-with-javascript/script.js" />
         <option value="$PROJECT_DIR$/cgi/dist/js/Voz.js" />
         <option value="$PROJECT_DIR$/cgi/panel2/job/UGaleria.php" />
         <option value="$PROJECT_DIR$/cgi/panel2/Varios.php" />
@@ -205,6 +207,7 @@
         <option value="$USER_HOME$/AppData/Local/Temp/Rar$DIa0.441/Ventas.php" />
         <option value="$PROJECT_DIR$/bd.php" />
         <option value="$PROJECT_DIR$/Ventas.php" />
+        <option value="$PROJECT_DIR$/.gitignore" />
       </list>
     </option>
   </component>
@@ -368,17 +371,17 @@
       <workItem from="1543487697049" duration="7278000" />
       <workItem from="1543604467250" duration="385000" />
       <workItem from="1543785892439" duration="2238000" />
-      <workItem from="1543791311929" duration="2892000" />
+      <workItem from="1543791311929" duration="5979000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="398552000" />
+    <option name="totallyTimeSpent" value="401639000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1296" height="1000" extended-state="6" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" weight="0.14069952" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.14069952" />
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" />
@@ -443,13 +446,6 @@
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/Ult10.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="136">
-          <caret line="8" column="2" selection-start-line="1" selection-end-line="13" selection-end-column="2" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/cgi/panel2/data/crud.php">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-255" />
@@ -702,9 +698,16 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/.gitignore">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="5" selection-start-column="5" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/Ventas.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="336">
+        <state relative-caret-position="3141">
           <caret line="470" lean-forward="true" selection-start-line="470" selection-end-line="470" />
         </state>
       </provider>
